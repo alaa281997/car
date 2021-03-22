@@ -1,0 +1,72 @@
+body{
+    background-color: whitesmoke;
+    margin: 0%;
+}
+header {
+    background-color:rgb(243, 195, 195);
+    height: 100px;
+}
+
+header nav{
+    float: right;
+    width: 30%;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+header nav ul li a{
+    color: #747474;
+    text-decoration: none;
+    font-weight: 500 bold;
+}
+header h1{
+    float: left; 
+    margin-left: 10px;
+    margin-right: 15px;
+    color: #747474;
+    font-weight: bold;
+}
+header nav ul li{
+    display: inline-block;
+    margin-left: 5%;
+}
+#Zero{
+    text-shadow: 2px 2px rgb(143, 143, 143);
+}
+#First{   
+    
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.image{
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    margin-left: 20px;
+   
+}
+#get{
+  background-color: lightgrey;
+  margin: 25px 50px 25px 100px;
+  border: 10px solid rgb(180, 185, 180);
+  padding: 20px;
+  text-align: center;
+  
+}
+
+#showCar div img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+footer{
+    height: 80px;
+    background-color:#8f8d8d;
+}
+footer p{
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    font-weight:100;
+}
